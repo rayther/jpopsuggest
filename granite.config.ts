@@ -7,7 +7,7 @@ export default defineConfig({
   brand: {
     displayName: "제이팝추천",
     primaryColor: "#F06292",
-    icon: "file:///C:/Users/User/Desktop/AppInToss/Jpop.png",
+    icon: "https://raw.githubusercontent.com/rayther/jpopsuggest/main/public/Jpop.png",
   },
   web: {
     host: devHost,
